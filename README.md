@@ -1,6 +1,6 @@
 # <img src="https://capsule-render.vercel.app/type=waving&color=00b4d8&height=200&section=header&text=Selam%20Ben%20Çınar!&fontSize=70" />
 
-### 🤖 AI Developer | ⚡ Electrical Engineering Student | 🎸 Guitar Enthusiast
+| ⚡ Electrical Student |
 
 ---
 
