@@ -22,10 +22,6 @@
 ![EAGLE](https://img.shields.io/badge/EAGLE-221E1F?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-333333?style=for-the-badge&logo=shapr3d&logoColor=white)
 
-![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-Gibson-B11717?style=flat-square&logo=guitar)
-![Photography](https://img.shields.io/badge/Photography-Vintage-orange?style=flat-square&logo=instagram)
-![Gaming](https://img.shields.io/badge/Gaming-Retro-blue?style=flat-square&logo=nintendo-switch)
-
 ---
 
 ### 📫 Connect with me
