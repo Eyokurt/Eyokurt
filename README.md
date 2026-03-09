@@ -10,6 +10,7 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314285?style=for-the-badge&logo=kicad&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1967?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Orange_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -17,6 +18,9 @@
 ![WSL2](https://img.shields.io/badge/WSL2-blue?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-221E1F?style=for-the-badge&logo=autodesk&logoColor=white)
+![EAGLE](https://img.shields.io/badge/EAGLE-221E1F?style=for-the-badge&logo=autodesk&logoColor=white)
+![Shapr3D](https://img.shields.io/badge/Shapr3D-333333?style=for-the-badge&logo=shapr3d&logoColor=white)
 
 ![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-Gibson-B11717?style=flat-square&logo=guitar)
 ![Photography](https://img.shields.io/badge/Photography-Vintage-orange?style=flat-square&logo=instagram)
