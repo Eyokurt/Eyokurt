@@ -24,6 +24,15 @@
 
 ---
 
+### 📫 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/ey%C3%BCp-%C3%A7%C4%B1nar-kurt-625957221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Çınar LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eyupcinarkurtt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Çınar Instagram" height="30" width="40" /></a>
+<a href="mailto:eyupcinarkurt0@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Çınar Mail" height="30" width="30" /></a>
+</p>
+
+---
+
 ### 🎵 Now Playing on Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2hywquib555b704suikebvb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2hywquib555b704suikebvb&redirect=true)
 
