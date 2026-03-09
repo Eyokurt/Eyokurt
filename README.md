@@ -16,6 +16,7 @@
 ![Microchip](https://img.shields.io/badge/Microchip-215091?style=for-the-badge&logo=microchip&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-blue?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-Gibson-B11717?style=flat-square&logo=guitar)
 ![Photography](https://img.shields.io/badge/Photography-Vintage-orange?style=flat-square&logo=instagram)
