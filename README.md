@@ -22,11 +22,8 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Eyokurt&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyokurt&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
-
-### 🎵 Ne Dinliyorum?
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1db954&border_color=191414&text_color=ffffff&name_color=ffffff&icon_color=191414&v=1)](https://open.spotify.com)
