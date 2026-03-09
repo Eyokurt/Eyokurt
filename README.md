@@ -11,3 +11,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+### 🎵 Now Playing on Spotify
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2hywquib555b704suikebvb&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2hywquib555b704suikebvb&redirect=true)
+
+---
